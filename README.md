@@ -25,3 +25,14 @@ ideas. By default, the app will use the version that ships with the app in the d
         {"name":"4", "regex" : "^(?<name>[a-zA-Z0-9\\.\\s]+)\\.(?<year>[0-9]{4})\\.(?<month>[0-9]{2})\\.(?<day>[0-9]{2})\\..*(?<ext>\\.[a-zA-Z0-9]{1,})$"},
         {"name":"5", "regex" : "^(?<name>[a-zA-Z0-9\\.\\s]+)\\s?-\\s?([a-zA-Z0-9\\s]+.*).*(?<ext>\\.[a-zA-Z0-9]{1,})$"}
     ]
+    
+Currently, the tool supports the following fields:
+
+- name
+- year
+- month
+- day
+- seasonNumber
+- episodeNumber
+- episodeName
+- ext (extension)
