@@ -1,9 +1,6 @@
 # CouchSurf
 
-This small command line tool for updating meta data based on
-
-## Atomic Parsley
-This app requires Atomic Parsley to be installed. This is pretty straight forward:
+This small command line tool for updating meta data based on Atomic Parsley. This app requires Atomic Parsley to be installed. This is pretty straight forward:
 
     brew install automicparsley
 
